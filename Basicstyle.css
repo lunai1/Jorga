@@ -1,0 +1,15 @@
+body {
+  background-color: #F30505;
+  color: #FFFAF0;
+}
+a#Ester1 {
+	color:white;
+  text-decoration: none;
+
+}
+a#Ester1:hover {
+  color: #00FFFF;
+}
+h3 {
+  text-decoration: none;
+}
