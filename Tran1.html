@@ -1,6 +1,7 @@
 <!doctype>
 <html>
   <head>
+    <script src="main.js"></script>
     <link rel="stylesheet" href="Basicstyle.css">
     <meta charset="utf-8">
     <title>Translate 1</title>
@@ -13,22 +14,16 @@
     </h1>
     <h3>Translate all the sentences</h3>
     <br>
-    <p>Meå dessån il Anora</p>
-    <form>
+    <p>Me dessån il Anora</p>
       <input type="text" placeholder="Answer" id="QT1,1">
-    </form>
-    <input class="checkbutton" type="submit" value="Check" onclick="if (document.getElementById('QT1,1').value == 'My name is Anora')  window.location.href = 'Correct.html'; else alert('Try again!');">
+    <button class="checkbutton" onclick="checkTranslation('QT1,1','My name is Anora')">Check Translation</button>
     <br>
     <p>Me dessån il nor Anori</p>
-    <form>
       <input type="text" placeholder="Answer" id="QT1,2">
-    </form>
-    <input class="checkbutton" type="submit" value="Check" onclick="if (document.getElementById('QT1,2').value == 'My name is not Anori')  window.location.href = 'Correct.html'; else alert('Try again!');">
+    <button class="checkbutton" onclick="checkTranslation('QT1,2', 'My name is not Anori')">Check Translation</button>
     <br>
-    <p></p>
-    <form>
+    <p>Moden dessån il nor Anorå</p>
       <input type="text" placeholder="Answer" id="QT1,3">
-    </form>
-    <input class="checkbutton" type="submit" value="Check" onclick="if (document.getElementById('QT1,2').value == 'My name is not Anori')  window.location.href = 'Correct.html'; else alert('Try again!');">
+    <button class="checkbutton" onclick="checkTranslation('QT1,3', 'Your name is not Anora')">Check Translation</button>
   </body>
 </html>
