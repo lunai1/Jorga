@@ -11,3 +11,15 @@ a#Ester4 {
 	color: black;
 	text-decoration: none;
 }
+input.backbutton {
+	background-color: beige;
+	color: crimson;
+}
+input.backbutton:hover {
+	background-color: cadetblue;
+	color: black;
+}
+input.backbutton:active {
+	background-color:black;
+	color: white;
+}
