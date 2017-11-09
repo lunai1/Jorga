@@ -13,3 +13,19 @@ a#Ester1:hover {
 h3 {
   text-decoration: none;
 }
+button.checkbutton {
+	background-color:blue;
+	color: white;
+}
+button.checkbutton:hover {
+	background-color: cyan;
+	color:black;
+}
+input.pagemove {
+	background-color: aqua;
+	color: crimson;
+}
+input.pagemove:hover {
+	background-color: cadetblue;
+	color:black;
+}
