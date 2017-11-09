@@ -1,3 +1,4 @@
+
 body {
   background-color: #247F9D;
   color: #EEEEEE;
@@ -21,4 +22,28 @@ h1 {
 a#EE:hover {
   color: #00FFFF;
   text-decoration: none;
+}
+input#Bbutton {
+	background-color: blue;
+	color:white;
+}
+input#Bbutton:hover {
+	background-color: red;
+	color: white;
+}
+input#Begbutton {
+	background-color: green;
+	color: white;
+}
+input#Begbutton:hover {
+	background-color: red;
+	color: white;
+}
+input#numbutton {
+	background-color:dodgerblue;
+	color: white;
+}
+input#numbutton:hover {
+	background-color: red;
+	color: white;
 }
