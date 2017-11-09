@@ -39,11 +39,11 @@ input#Begbutton:hover {
 	background-color: red;
 	color: white;
 }
-input#numbutton {
+input#alphbutton {
 	background-color:dodgerblue;
 	color: white;
 }
-input#numbutton:hover {
+input#alphbutton:hover {
 	background-color: red;
 	color: white;
 }
