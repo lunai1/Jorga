@@ -5,13 +5,10 @@ body {
 
 }
 a#menu {
-  color: red;
+  color: orange;
 }
 a#menu:hover {
   color: cyan;
-}
-a#menu:active {
-  color: black;
 }
 a#å {
   color: #EEEEEE;
