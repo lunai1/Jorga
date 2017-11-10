@@ -4,8 +4,14 @@ body {
   color: #EEEEEE;
 
 }
-a {
+a#menu {
   color: red;
+}
+a#menu:hover {
+  color: cyan;
+}
+a#menu:active {
+  color: black;
 }
 a#å {
   color: #EEEEEE;
