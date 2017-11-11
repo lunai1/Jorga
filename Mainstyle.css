@@ -12,17 +12,17 @@ a#menu:hover {
 }
 a#å {
   color: #EEEEEE;
-
+  text-decoration: none;
 }
 a#å:hover {
   color: #00FFFF;
+  text-decoration: none;
 }
 a#EE {
 	color: #247F9D;
   text-decoration: none;
 }
 h1 {
-  text-decoration: underline;
 
 }
 a#EE:hover {
