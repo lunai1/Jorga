@@ -29,3 +29,6 @@ input.pagemove:hover {
 	background-color: cadetblue;
 	color:black;
 }
+a.letterlink:active {
+  color:green;
+}
