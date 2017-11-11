@@ -6,4 +6,6 @@ button#hider {
   background: transparent;
   border: none;
   font-size: 0;
+  height: 34px;
+  width: auto;
 }
