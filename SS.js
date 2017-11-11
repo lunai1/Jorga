@@ -9,7 +9,7 @@ function unhide() {
 function sesame(pass) {
     var s = document.getElementById('openses')
     var ss = document.getElementById('sss')
-  if( document.getElementById(Password).value.toLowerCase() === pass.toLowerCase()) {
+  if( document.getElementById('Password').value.toLowerCase() === pass.toLowerCase()) {
     s.style.display = "none";
     ss.style.display = "block";
   }
