@@ -2,3 +2,6 @@ Body {
   background-color: #24FF89;
 
 }
+button#hider {
+  background-color: transparent;
+}
