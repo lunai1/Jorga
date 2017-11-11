@@ -18,11 +18,11 @@ button.checkbutton {
 	color: white;
 }
 button.checkbutton:hover {
-	background-color: lightgreen;
+	background-color: green;
 	color:black;
 }
 input.pagemove {
-	background-color: aqua;
+	background-color: lightgreen;
 	color: black;
 }
 input.pagemove:hover {
