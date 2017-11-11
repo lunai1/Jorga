@@ -46,8 +46,8 @@ input#Begbutton:hover {
 	color: white;
 }
 input#alphbutton {
-	background-color:dodgerblue;
-	color: white;
+	background-color:yellow;
+	color: black;
 }
 input#alphbutton:hover {
 	background-color: red;
