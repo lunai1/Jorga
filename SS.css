@@ -9,3 +9,6 @@ button#hider {
   height: 34px;
   width: 60px;
 }
+div#hidden {
+  display: none;
+}
