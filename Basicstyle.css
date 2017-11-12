@@ -2,6 +2,9 @@ body {
   background-color: blue;
   color: orange;
 }
+a {
+  color:#e59400;
+}
 a#Ester1 {
 	color:white;
   text-decoration: none;
