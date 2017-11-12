@@ -1,18 +1,18 @@
 /* CSS Document */
 Body {
-	background-color: green;
-	color: red;
+	background-color: #24d61e;
+	color: #1e1ed6;
 }
 a {
-	color: violet;
+	color: #d6d61e;
 
 }
 a#Ester4 {
-	color: red;
+	color: #1e1ed6;
 	text-decoration: none;
 }
 input.backbutton {
-	background-color: pink;
+	background-color: #d6d61e;
 	color: green;
 }
 input.backbutton:hover {
