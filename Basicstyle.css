@@ -1,6 +1,6 @@
 body {
-  background-color: #F30505;
-  color: #FFFAF0;
+  background-color: blue;
+  color: orange;
 }
 a#Ester1 {
 	color:white;
@@ -14,7 +14,7 @@ h3 {
   text-decoration: none;
 }
 button.checkbutton {
-	background-color:blue;
+	background-color:orange;
 	color: white;
 }
 button.checkbutton:hover {
