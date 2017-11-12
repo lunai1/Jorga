@@ -7,7 +7,7 @@ input#passbutton {
 }
 button#SE {
   background: transparent;
-  height: 300px;
+  height: 100px;
   width: 600px;
   border: none;
 }
