@@ -1,9 +1,12 @@
 body {
-  background-color: yellow;
-  color: purple;
+  background-color: #faea03;
+  color: #5e03fa;
+}
+a {
+  color:#fa039f;
 }
 input.pagemove {
-  background-color: #9400D3;
+  background-color: #fa039f;
 }
 button#EE5 {
   background: transparent;
