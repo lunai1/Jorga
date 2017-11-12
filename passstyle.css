@@ -1,8 +1,8 @@
 body {
   background-color: blue;
-
+  color : orange;
 }
 input#passbutton {
-  color: red;
+  background-color: red;
 
 }
