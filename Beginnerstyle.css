@@ -1,19 +1,19 @@
 /* CSS Document */
 Body {
-	background-color: aquamarine;
-
+	background-color: green;
+	color: red;
 }
 a {
-	color: green;
+	color: violet;
 
 }
 a#Ester4 {
-	color: black;
+	color: red;
 	text-decoration: none;
 }
 input.backbutton {
-	background-color: beige;
-	color: crimson;
+	background-color: pink;
+	color: lightgreen;
 }
 input.backbutton:hover {
 	background-color: cadetblue;
