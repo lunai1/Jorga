@@ -4,5 +4,9 @@ body {
 }
 input#passbutton {
   background-color: red;
-
+}
+button#SE {
+  background: transparent;
+  height: 300px;
+  width: 600px;
 }
