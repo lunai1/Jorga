@@ -32,24 +32,30 @@ a#EE:hover {
 input#Bbutton {
 	background-color: blue;
 	color:white;
+  height: 50px;
 }
 input#Bbutton:hover {
 	background-color: red;
 	color: white;
+  height: 50px;
 }
 input#Begbutton {
 	background-color: #24d61e;
 	color: white;
+  height: 50px;
 }
 input#Begbutton:hover {
 	background-color: red;
 	color: white;
+  height: 50px;
 }
 input#alphbutton {
 	background-color:#faea03;
 	color: black;
+  height: 50px;
 }
 input#alphbutton:hover {
 	background-color: red;
 	color: white;
+  height: 50px;
 }
