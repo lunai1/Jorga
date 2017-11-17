@@ -60,6 +60,5 @@ input#alphbutton:hover {
   height: 50px;
 }
 #osa {
-	display: flex;
-	justify-content: flex-end;
+	float: right;
 }
