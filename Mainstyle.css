@@ -60,3 +60,6 @@ input#alphbutton:hover {
 	color: white;
   height: 50px;
 }
+#osa {
+	float: center;
+}
