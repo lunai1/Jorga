@@ -1,5 +1,6 @@
 
 body {
+	text-align: center;
   background-color: #247F9D;
   color: #EEEEEE;
 
@@ -58,7 +59,4 @@ input#alphbutton:hover {
 	background-color: red;
 	color: white;
   height: 50px;
-}
-#osa {
-	float: right;
 }
