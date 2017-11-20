@@ -15,7 +15,7 @@ function show() {
     document.getElementById('message').innerHTML = 'You took too long to press the button! The counter reset!';
 
   } else if (count >= 10000 ) {
-    window.location.href = 'noice.html';
+    window.location.href = 'Gorga.html';
   } else if (count >= 9990 ) {
     document.getElementById('message').innerHTML = 'My life is a lie. I cant believe that I spent time making this. You pressed the button '+count+ ' times.';
   } else if (count >= 9980 ) {
